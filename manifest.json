@@ -25,7 +25,7 @@
               "body": {
                 "id": "http://localhost:8182/iiif/3/ISic000689_tiled.tif/0,0,500,500/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpg",
+                "format": "image/jpg", 
                 "height": 1800,
                 "width": 1200
               },

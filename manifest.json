@@ -23,7 +23,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8182/iiif/3/ISic000689_tiled.tif/0,0,500,500/max/0/default.jpg",
+                "id": "http://minerva.classics.ox.ac.uk:8182/iiif/3/F296.tif/0,0,2000,2000/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpg", 
                 "height": 1800,

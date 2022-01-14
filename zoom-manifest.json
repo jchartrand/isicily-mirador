@@ -28,14 +28,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://minerva.classics.ox.ac.uk/iipsrv/iipsrv.fcgi?IIIF=/mnt/lizardfs/IIIF/scene.tif/full/400,400/90/default.jpg",
+                "id": "http://minerva.classics.ox.ac.uk:8182/iiif/3/F296.tif/0,0,2000,2000/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3024,
                 "width": 4032,
                 "service": [
                   {
-                    "id": "http://minerva.classics.ox.ac.uk/iipsrv/iipsrv.fcgi?IIIF=/mnt/lizardfs/IIIF/scene.tif",
+                    "id": "http://minerva.classics.ox.ac.uk:8182/iiif/3/F296.tif",
                     "profile": "level1",
                     "type": "ImageService3"
                   }
